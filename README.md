@@ -1,4 +1,6 @@
-### Hi there 👋
+![N8VENTURES's GitHub stats](https://github-readme-stats-n8ventures.vercel.app/api?username=n8ventures&show_icons=true&rank_icon=github)
+![Top Langs](https://github-readme-stats-n8ventures.vercel.app/api/top-langs/?username=n8ventures&layout=compact)
+
 
 <!--
 **n8ventures/n8ventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
