@@ -1,5 +1,6 @@
 ![N8VENTURES's GitHub stats](https://github-readme-stats-n8ventures.vercel.app/api?username=n8ventures&show_icons=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats-n8ventures.vercel.app/api/top-langs/?username=n8ventures&layout=compact)
+[![Discord Presence](https://lanyard.cnrad.dev/api/344606551476011029?borderRadius=10&idleMessage=Brainrotting...&bg=&hideStatus=true&showDisplayName=true)](https://discord.com/users/344606551476011029)
 
 
 <!--
